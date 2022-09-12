@@ -1,0 +1,163 @@
+#component1_main_div_id{
+    width:100%;
+    margin:auto;
+    min-height:40vw;
+   
+}
+#tool_btn_id{
+    position:fixed;
+    top:1vw;
+    right:1vw;
+}
+#title_p_id{
+    width:60%;
+    margin:auto;
+    padding:1vw;
+  font-weight: bold;
+}
+#content_p_id{
+    width:60%;
+    margin:auto;
+   
+}
+#anchor_p_id{
+    width:60%;
+    margin:auto;
+  
+}
+#repetitive_div_id{
+    width:30vw;
+    margin:3vw;
+    padding:1vw;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+ 
+}
+#drawer_main_div_id{
+    width:40vw;
+}
+#drawer1{
+    width:90%;
+    margin:auto;
+    display:flex;
+    flex-direction: row;
+    column-gap: 1vw;
+}
+#drawer11{
+    width:70%;
+    background-color: #F1F7FA;
+}
+#drawer11:hover{
+    border:1px solid rgb(13, 83, 129);
+}
+#drawer12{
+    width:30%;
+    background-color: #F1F7FA;
+    cursor: pointer;
+}
+#drawer12:hover{
+    border:1px solid rgb(13, 83, 129);
+}
+#drawer11_p1_id{
+    width:100%;
+    justify-content: center;
+    display:flex;
+}
+#drawer11_p2_id{
+    width:80%;
+    margin: auto;
+    display:flex;
+    justify-content: space-between;
+    background-color: #FFFFFF;
+    padding:0.5vw;
+}
+#drawer12_p1_id{
+    width:100%;
+    justify-content: center;
+    display:flex;
+}
+#drawer12_p2_id{
+    width:100%;
+   text-align: center;
+}
+.contentzoomclass{
+    font-size: 2vw;
+    cursor: pointer;
+}
+button{
+    cursor: pointer;
+}
+#drawer2{
+    width:90%;
+    margin:auto;
+    margin-top: 2vw;
+    display:flex;
+    justify-content: space-between;
+}
+#drawer21_div_id{
+    cursor: pointer;
+    background-color: #F1F7FA;
+}
+#drawer21_div_id:hover{
+    border:1px solid rgb(23, 87, 117);
+}
+#drawer22_div_id{
+    cursor: pointer;
+    background-color: #F1F7FA;
+}
+#drawer22_div_id:hover{
+    border:1px solid rgb(23, 87, 117);
+}
+#drawer23_div_id{
+    cursor: pointer;
+    background-color: #F1F7FA;
+}
+#drawer23_div_id:hover{
+    border:1px solid rgb(23, 87, 117);
+}
+.p21_id{
+    text-align: center;
+}
+#drawer3{
+    width:90%;
+    margin:auto;
+    margin-top: 1vw;
+    display:flex;
+    flex-direction: row;
+    column-gap: 1vw;
+}
+#drawer4{
+    width:90%;
+    margin:auto;
+    margin-top: 1vw;
+    display:flex;
+    flex-direction: row;
+    column-gap: 1vw;
+}
+#drawer5{
+    width:90%;
+    margin:auto;
+    margin-top: 1vw;
+    display:flex;
+    flex-direction: row;
+    column-gap: 1vw;
+}
+
+#component1_inner_div_id{
+    display:flex;
+    flex-wrap:wrap;
+    justify-content: space-evenly;
+}
+#hidden_div{
+    position:fixed;
+    top:20vw;
+    width:20vw;
+    left:2vw;
+    border-radius:5px;
+    background-color: rgba(0, 0, 0, 0.80);
+    font-size:2vw;
+    padding:1vw;
+    color:white;
+    display:none;
+   
+    
+}
